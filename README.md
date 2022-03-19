@@ -1,3 +1,14 @@
+IPFS Address:  "ipfs.io/ipfs/QmY1WtjZacjKawmgDvaJDvXdhteYT7YHTTXLNp9V7gNUs8"
+
+
+// my-imageNFT.json
+{
+"name" : "My_imageNFT",
+"image" : "https://ipfs.io/ipfs/QmXT5MF4Mg9bkaiQ4GwYNEVnhAL7gi2rzNAwcmFM8D5ADY",
+"description": "My first NFT image"
+}
+
+
 REMIX EXAMPLE PROJECT
 
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
