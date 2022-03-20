@@ -2,9 +2,10 @@ IPFS Address:  "https://ipfs.io/ipfs/QmY1WtjZacjKawmgDvaJDvXdhteYT7YHTTXLNp9V7gN
 
 ERC2O Token: "[View contract creation on etherscan](https://rinkeby.etherscan.io/address/0x7e43f4800e5323186b3124368d72f2bba096bfee)"
 
-ERC721 Token:
+ERC721 Token: "[View contract creation on etherscan](https://rinkeby.etherscan.io/address/0x188f39692cbe359b173882882aaa4a8cbf07dfc8)"
 
-Metastructure:
+Metadata structure:
+
 // my-imageNFT.json
 {
 
