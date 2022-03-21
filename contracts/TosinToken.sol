@@ -6,6 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract TosinToken is ERC20, Ownable {
     constructor() ERC20("TosinToken", "A4Y") {
+         totalsupply = 10000000
         
         _mint (msg.sender, 10000000*10**decimals());
     }
